@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad06451f-30f9-46b4-b631-e00ea020fbd7" name="Changes" comment="Added &quot;toString()&quot;" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="REBASE" />
+      </set>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mphipps1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mphipps1/tran&quot;,
+    &quot;accountId&quot;: &quot;3be22ddd-b6d8-4be3-88f6-384210e5f4ba&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2jk0pyD0Ap37NP6EwYxAryeMhwE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.InterpreterTests.Loop1.executor": "Run",
+    "JUnit.InterpreterTests.SimpleAdd.executor": "Debug",
+    "JUnit.InterpreterTests.SimpleAddInstantiate.executor": "Debug",
+    "JUnit.InterpreterTests.SimpleAddInstantiateAndPrint.executor": "Run",
+    "JUnit.InterpreterTests.SimpleAddtest.executor": "Debug",
+    "JUnit.InterpreterTests.executor": "Run",
+    "JUnit.InterpreterTests.student.executor": "Run",
+    "JUnit.Lexer1Tests.Blankspace.executor": "Run",
+    "JUnit.Lexer1Tests.Blankspace2.executor": "Run",
+    "JUnit.Lexer1Tests.EvilNumberTest.executor": "Run",
+    "JUnit.Lexer1Tests.ExclamationPTtest.executor": "Run",
+    "JUnit.Lexer1Tests.FractionNumberTest.executor": "Run",
+    "JUnit.Lexer1Tests.IndentTes1t.executor": "Run",
+    "JUnit.Lexer1Tests.IndentTest.executor": "Run",
+    "JUnit.Lexer1Tests.IndentTest1.executor": "Run",
+    "JUnit.Lexer1Tests.KeyWordLexerTest.executor": "Run",
+    "JUnit.Lexer1Tests.MixedTest.executor": "Run",
+    "JUnit.Lexer1Tests.MixedTest1.executor": "Run",
+    "JUnit.Lexer1Tests.MixedTest2.executor": "Run",
+    "JUnit.Lexer1Tests.MultilineLexerTest.executor": "Run",
+    "JUnit.Lexer1Tests.MultilineLexerTest1.executor": "Run",
+    "JUnit.Lexer1Tests.NotEqualsTest.executor": "Run",
+    "JUnit.Lexer1Tests.NumberTest.executor": "Run",
+    "JUnit.Lexer1Tests.NumberTest1.executor": "Run",
+    "JUnit.Lexer1Tests.Punctuation.executor": "Run",
+    "JUnit.Lexer1Tests.SimpleLexerTest.executor": "Run",
+    "JUnit.Lexer1Tests.SimpleLexerTest1.executor": "Run",
+    "JUnit.Lexer1Tests.Testdecimal.executor": "Run",
+    "JUnit.Lexer1Tests.TwoCharacterTest.executor": "Run",
+    "JUnit.Lexer1Tests.WordsNumbersMixedTest.executor": "Run",
+    "JUnit.Lexer1Tests.dotAtEnd.executor": "Run",
+    "JUnit.Lexer1Tests.doublenewline.executor": "Run",
+    "JUnit.Lexer1Tests.doublenewline1.executor": "Run",
+    "JUnit.Lexer1Tests.doublesign.executor": "Run",
+    "JUnit.Lexer1Tests.executor": "Run",
+    "JUnit.Lexer1Tests.indenttestatend.executor": "Run",
+    "JUnit.Lexer1Tests.indenttre.executor": "Run",
+    "JUnit.Lexer1Tests.interpretertestcarryover.executor": "Debug",
+    "JUnit.Lexer2Tests.Comment.executor": "Run",
+    "JUnit.Lexer2Tests.KeyWordLexerTest.executor": "Run",
+    "JUnit.Lexer2Tests.MultiLineQuotedStringLexerTest.executor": "Run",
+    "JUnit.Lexer2Tests.QuotedCharacterLexerTest.executor": "Run",
+    "JUnit.Lexer2Tests.QuotedStringLexerTest.executor": "Run",
+    "JUnit.Lexer2Tests.executor": "Debug",
+    "JUnit.LexerTests.IndentTest.executor": "Debug",
+    "JUnit.LexerTests.KeyWordLexerTest.executor": "Run",
+    "JUnit.LexerTests.MixedTest.executor": "Run",
+    "JUnit.LexerTests.MultilineLexerTest.executor": "Run",
+    "JUnit.LexerTests.NotEqualsTest.executor": "Debug",
+    "JUnit.LexerTests.SimpleLexerTest.executor": "Run",
+    "JUnit.LexerTests.Test1.executor": "Run",
+    "JUnit.LexerTests.TwoCharacterTest.executor": "Debug",
+    "JUnit.LexerTests.executor": "Run",
+    "JUnit.LexerTests2.KeyWordLexerTest.executor": "Run",
+    "JUnit.LexerTests2.QuotedStringLexerTest.executor": "Run",
+    "JUnit.LexerTests2.TestIt.executor": "Debug",
+    "JUnit.LexerTests2.executor": "Run",
+    "JUnit.ParserTests.Test_expression.executor": "Run",
+    "JUnit.ParserTests.executor": "Run",
+    "JUnit.ParserTests.factorMethodCallExpressionTest.executor": "Run",
+    "JUnit.ParserTests.factorNewTest.executor": "Run",
+    "JUnit.ParserTests.factorNumbersTest.executor": "Run",
+    "JUnit.ParserTests.factorStringTest.executor": "Run",
+    "JUnit.ParserTests.factorTrueFalseTest.executor": "Run",
+    "JUnit.ParserTests.factorVariableReferenceTest.executor": "Run",
+    "JUnit.ParserTests.method_calltest.executor": "Run",
+    "JUnit.ParserTests.termsTest.executor": "Debug",
+    "JUnit.ParserTests.testAccessors.executor": "Run",
+    "JUnit.ParserTests.testBooleanExp_term.executor": "Run",
+    "JUnit.ParserTests.testBooleanTerm_Factor.executor": "Debug",
+    "JUnit.ParserTests.testClass.executor": "Run",
+    "JUnit.ParserTests.testClassIf.executor": "Run",
+    "JUnit.ParserTests.testClassIfElse.executor": "Run",
+    "JUnit.ParserTests.testClassIfpriv.executor": "Run",
+    "JUnit.ParserTests.testClassImplements.executor": "Run",
+    "JUnit.ParserTests.testClassParsing.executor": "Run",
+    "JUnit.ParserTests.testClassWithMethodsAndMembers.executor": "Debug",
+    "JUnit.ParserTests.testClassWithMultipleMembers.executor": "Run",
+    "JUnit.ParserTests.testClassWithOneMethod.executor": "Run",
+    "JUnit.ParserTests.testConstructorParsing.executor": "Run",
+    "JUnit.ParserTests.testDisambiguate.executor": "Run",
+    "JUnit.ParserTests.testGetCurrentColumnNumber.executor": "Run",
+    "JUnit.ParserTests.testGetCurrentLine.executor": "Run",
+    "JUnit.ParserTests.testInterface.executor": "Run",
+    "JUnit.ParserTests.testInterface1.executor": "Run",
+    "JUnit.ParserTests.testLoop.executor": "Run",
+    "JUnit.ParserTests.testLoopCondition.executor": "Run",
+    "JUnit.ParserTests.testLoopConditionWithVariable.executor": "Run",
+    "JUnit.ParserTests.testLoopVariable.executor": "Debug",
+    "JUnit.ParserTests.testMatchAndRemove.executor": "Run",
+    "JUnit.ParserTests.testMembers_and_methoddeclaration.executor": "Run",
+    "JUnit.ParserTests.testMethodCallWithMulitpleVariables.executor": "Run",
+    "JUnit.ParserTests.testNextTwoTokensMatch.executor": "Run",
+    "JUnit.ParserTests.testParserConstructor.executor": "Run",
+    "JUnit.ParserTests.testPeek.executor": "Run",
+    "JUnit.ParserTests.testVariableReference.executor": "Run",
+    "JUnit.ParserTests.testassign.executor": "Run",
+    "JUnit.ParserTests.testmutator.executor": "Run",
+    "JUnit.ParserTests.testmutator1.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Udesh/CSI-311/Tran-Skeleton",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="AST" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.InterpreterTests.SimpleAddInstantiateAndPrint">
+    <configuration name="InterpreterTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tran" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InterpreterTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterpreterTests.SimpleAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tran" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InterpreterTests" />
+      <option name="METHOD_NAME" value="SimpleAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterpreterTests.SimpleAddInstantiate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tran" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InterpreterTests" />
+      <option name="METHOD_NAME" value="SimpleAddInstantiate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterpreterTests.SimpleAddInstantiateAndPrint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tran" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InterpreterTests" />
+      <option name="METHOD_NAME" value="SimpleAddInstantiateAndPrint" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tran" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParserTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.InterpreterTests.SimpleAddInstantiateAndPrint" />
+      <item itemvalue="JUnit.ParserTests" />
+      <item itemvalue="JUnit.InterpreterTests" />
+      <item itemvalue="JUnit.InterpreterTests.SimpleAdd" />
+      <item itemvalue="JUnit.InterpreterTests.SimpleAddInstantiate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.InterpreterTests.SimpleAddInstantiateAndPrint" />
+        <item itemvalue="JUnit.InterpreterTests.SimpleAddInstantiate" />
+        <item itemvalue="JUnit.InterpreterTests.SimpleAdd" />
+        <item itemvalue="JUnit.InterpreterTests" />
+        <item itemvalue="JUnit.ParserTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad06451f-30f9-46b4-b631-e00ea020fbd7" name="Changes" comment="" />
+      <created>1721915954628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721915954628</updated>
+      <workItem from="1721915955587" duration="21000" />
+      <workItem from="1721915980418" duration="22728000" />
+      <workItem from="1722013709872" duration="46123000" />
+      <workItem from="1722892047277" duration="8680000" />
+      <workItem from="1723048178588" duration="53673000" />
+      <workItem from="1723577176433" duration="52805000" />
+      <workItem from="1723839368370" duration="2625000" />
+      <workItem from="1724089622121" duration="10155000" />
+      <workItem from="1724270583973" duration="17556000" />
+      <workItem from="1725398208697" duration="14000" />
+      <workItem from="1725398361842" duration="439000" />
+      <workItem from="1725542392113" duration="1090000" />
+      <workItem from="1725544339944" duration="25000" />
+      <workItem from="1725631414353" duration="3404000" />
+    </task>
+    <task id="LOCAL-00001" summary="AST and parser complete-ish">
+      <option name="closed" value="true" />
+      <created>1723240082937</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723240082937</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finished!">
+      <option name="closed" value="true" />
+      <created>1723839287782</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723839287782</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixed a few bugs. Added another test.">
+      <option name="closed" value="true" />
+      <created>1724092527309</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724092527309</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fixed a few bugs. Added another test.">
+      <option name="closed" value="true" />
+      <created>1724093524786</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724093524786</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added return values to the locals, so that we can return from a method. &#10;Made MethodCallExpressions have a return value so that they match the calling method.">
+      <option name="closed" value="true" />
+      <created>1724099386473</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724099386473</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added &quot;toString()&quot;">
+      <option name="closed" value="true" />
+      <created>1724343184260</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724343184260</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AST and parser complete-ish" />
+    <MESSAGE value="Finished!" />
+    <MESSAGE value="Fixed a few bugs. Added another test." />
+    <MESSAGE value="Added return values to the locals, so that we can return from a method. &#10;Made MethodCallExpressions have a return value so that they match the calling method." />
+    <MESSAGE value="Added &quot;toString()&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;toString()&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lexer2Tests.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ParserTests.java</url>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterpreterTests.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lexer1Tests.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lexer1Tests.java</url>
+          <line>147</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lexer1Tests.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lexer1Tests.java</url>
+          <line>180</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lexer2Tests.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lexer2Tests.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lexer2Tests.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lexer2Tests.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lexer1Tests.java</url>
+          <line>196</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ParserTests.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lexer1Tests.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lexer1Tests.java</url>
+          <line>280</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lexer1Tests.java</url>
+          <line>297</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lexer1Tests.java</url>
+          <line>265</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lexer1Tests.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lexer1Tests.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lexer1Tests.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ParserTests.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ParserTests.java</url>
+          <line>187</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterpreterTests.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lexer1Tests.java</url>
+          <line>351</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ParserTests.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ParserTests.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ParserTests.java</url>
+          <line>211</line>
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ParserTests.java</url>
+          <line>209</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Parser.java</url>
+          <line>645</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterpreterTests.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="324" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interpreter/Interpreter.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="325" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interpreter/Interpreter.java</url>
+          <line>731</line>
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interpreter/Interpreter.java</url>
+          <line>396</line>
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interpreter/Interpreter.java</url>
+          <line>521</line>
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interpreter/Interpreter.java</url>
+          <line>177</line>
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interpreter/Interpreter.java</url>
+          <line>273</line>
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interpreter/Interpreter.java</url>
+          <line>207</line>
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterpreterTests.java</url>
+          <line>169</line>
+          <option name="timeStamp" value="363" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interpreter/Interpreter.java</url>
+          <line>319</line>
+          <option name="timeStamp" value="364" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interpreter/Interpreter.java</url>
+          <line>505</line>
+          <option name="timeStamp" value="365" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interpreter/Interpreter.java</url>
+          <line>234</line>
+          <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interpreter/Interpreter.java</url>
+          <line>618</line>
+          <option name="timeStamp" value="367" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interpreter/Interpreter.java</url>
+          <line>181</line>
+          <option name="timeStamp" value="369" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interpreter/Interpreter.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.RuntimeException" package="java.lang" />
+          <option name="timeStamp" value="51" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="241" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="331" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="currentIndentation" />
+        <watch expression="lineNumber" />
+        <watch expression="tokens.get(20)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tran_Skeleton$Lexer1Tests_doublesign.ic" NAME="Lexer1Tests.doublesign Coverage Results" MODIFIED="1728330135810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/Tran_Skeleton$Lexer1Tests_interpretertestcarryover.ic" NAME="Lexer1Tests.interpretertestcarryover Coverage Results" MODIFIED="1732479597410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
